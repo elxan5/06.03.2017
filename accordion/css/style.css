@@ -1,0 +1,37 @@
+html,body{
+	background: #DDD;
+}
+
+h1{
+	font-size: 18px;
+	color: #666;
+}
+button.accordion{
+	width: 51%;
+	padding: 20px 20px;
+	height: 60px;
+	display: block;
+	border: 1px solid #fff;
+	border-radius: 5px ;
+	font-size: 16px;
+	color:#ddd;
+	background: #007a8a;
+	text-align: left;
+
+}
+button.accordion:hover,button .accordion:active{
+background: #f78c22;
+}
+.box{
+display: none;
+background: #FFF;
+width: 50%;
+color: #373a3a;
+border-radius: 0 0 10px 10px; 
+font-size: 16px;
+border:1px solid skyblue;
+padding: 1px 7px;
+}
+.my{
+	float: right;
+}

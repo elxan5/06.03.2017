@@ -1,0 +1,27 @@
+html, body, .slider {
+    margin: 0;
+    padding: 0;
+
+}
+	#img{
+    background: #DDD;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    position:absolute;
+
+	 }
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.my{
+	color: #ddd;
+}
+.icons{
+	width: 100%;
+	position: absolute;
+	top: 50%;
+ }
